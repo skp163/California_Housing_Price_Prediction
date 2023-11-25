@@ -7,7 +7,7 @@ This is an prediction project to predict median house values in Californian dist
 **Data Set**:
 [sklearn.datasets.fetch_california_housing](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
 
-**Number of Features : 8**
+**Number of Features : 8** <br/>
 **Sample size: 20640**
 
 ## Process and Description
