@@ -5,7 +5,7 @@ This is an prediction project to predict median house values in Californian dist
 
 
 **Data Set**:
-[sklearn.datasets.fetch_california_housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+[sklearn.datasets.fetch_california_housing](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
 
 
 ## Process and Description
@@ -14,7 +14,7 @@ Then I have converted the data set in to Pandas data frame for better visualisat
 From here, I have check for data quality and  consistency.
 Also I find the scaling of the features are not consistent. 2 features are capped features.  Target and HouseAge is caped by 0 to 5 and 0 to 52 respectively. This needed data preprocessing.
 
-[![Features Description](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+![Features Description](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
 
 
 Then I jump to feature selection and try to correlate each attributes with each other. I find Median_Income is highly correlated with target(House_value) than other features.
