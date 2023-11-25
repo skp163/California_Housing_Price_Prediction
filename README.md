@@ -1,2 +1,7 @@
-# California_Housing_Price_Prediction
-Predicting California housing price by different models like linear regression etc.
+# California Housing Price Prediction Using Different Models
+## Using Linear Regression
+### About Data and Objective
+This is an prediction project to predict median house values in Californian districts by given features in the data set.
+
+**Data Set
+sklearn.datasets.fetch_california_housing (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)&nbsp;
