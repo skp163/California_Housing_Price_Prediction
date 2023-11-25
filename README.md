@@ -14,7 +14,7 @@ Then I have converted the data set in to Pandas data frame for better visualisat
 From here, I have check for data quality and  consistency.
 Also I find the scaling of the features are not consistent. 2 features are capped features.  Target and HouseAge is caped by 0 to 5 and 0 to 52 respectively. This needed data preprocessing.
 
-Image
+[Features Description](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
 
 Then I jump to feature selection and try to correlate each attributes with each other. I find Median_Income is highly correlated with target(House_value) than other features.
 Then I took general hypothesis as 'the price of any house is highly dependent on location' and find the it right. At some latitude -longitude the prices of the house is very high. 
