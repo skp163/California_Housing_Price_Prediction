@@ -1,5 +1,5 @@
 # California Housing Price Prediction Using Different Models
-## Using Linear Regression
+## 1. Using Linear Regression
 ### About Data and Objective
 This is an prediction project to predict median house values in Californian districts by given features in the data set.
 
