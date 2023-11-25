@@ -17,7 +17,11 @@ Also I find the scaling of the features are not consistent. 2 features are cappe
 ![Features Description](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
 
 
-Then I jump to feature selection and try to correlate each attributes with each other. I find Median_Income is highly correlated with target(House_value) than other features.
+Then I jump to feature selection and try to correlate each features with each other. I find Median_Income is highly correlated with target(House_value) than other features.
+
+![Features Correlation](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Features%20Correlation.png)
+
+
 Then I took general hypothesis as 'the price of any house is highly dependent on location' and find the it right. At some latitude -longitude the prices of the house is very high. 
 Then I have done a simple linear regression including all the features and find the below results for R2 err and MSE. 
 
