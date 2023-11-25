@@ -23,7 +23,6 @@ Result
 |R2_Error|  MSE  |
 |--------|-------|
 | 0.594  | 0.5424|
-|--------|-------|
 
 ## Way Forword
 Next to make it better, it needs extensive feature selection and data pre-processing.
