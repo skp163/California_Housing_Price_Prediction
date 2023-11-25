@@ -3,5 +3,5 @@
 ### About Data and Objective
 This is an prediction project to predict median house values in Californian districts by given features in the data set.
 
-**Data Set
+**Data Set**:
 sklearn.datasets.fetch_california_housing (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)&nbsp;
